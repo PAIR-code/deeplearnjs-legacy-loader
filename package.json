@@ -17,6 +17,7 @@
     "browserify": "~14.4.0",
     "browserify-shim": "~3.8.14",
     "clang-format": "~1.2.2",
+    "deeplearn": "0.5.1",
     "http-server": "~0.11.1",
     "jasmine-core": "~2.6.4",
     "karma": "~1.7.0",
@@ -41,7 +42,7 @@
   "browserify-shim": {
     "deeplearn": "global:dl"
   },
-  "dependencies": {
+  "peerDependencies": {
     "deeplearn": "0.5.1"
   }
 }

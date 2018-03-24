@@ -1,6 +1,6 @@
 # deeplearn.js legacy loader
 
-This repo provides the legacy loader for porting a TensorFlow model to deeplearn.js.
+This repo provides the legacy loader for porting a TensorFlow model to deeplearn.js. Note that this loader is deprecated.
 
 ## Usage
 ```js
